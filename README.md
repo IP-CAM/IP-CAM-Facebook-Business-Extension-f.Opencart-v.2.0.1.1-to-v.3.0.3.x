@@ -1,4 +1,4 @@
-# Facebook Business Extension for OpenCart v2.0.1.1 to v3.0.3.7
+# Facebook Business Extension for OpenCart v2.0.1.1 to v3.0.3.x
 
 - The latest version of the plugin can be found at [here](https://github.com/facebookincubator/Facebook-For-OpenCart/releases/latest)
 - The latest version of the README can be found at [here](https://github.com/facebookincubator/Facebook-For-OpenCart/blob/master/README.md)
@@ -8,7 +8,7 @@
 - For Facebook related issues or enquiries, please open a ticket with Facebook Business Support at [Facebook Business Help Centre](https://www.facebook.com/business/help/support)
 
 
-Source code for Facebook Business Extension for OpenCart. This is for OpenCart v2.0.1.1 to v3.0.3.7.  
+Source code for Facebook Business Extension for OpenCart. This is for OpenCart v2.0.1.1 to v3.0.3.x
 
 
 # Features:
